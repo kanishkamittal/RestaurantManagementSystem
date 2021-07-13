@@ -1,5 +1,5 @@
 # RestaurantManagementSystem
-A console based program of restaurant management system.Implementation of this program is done using linked list data structures.
+A console based application of restaurant management system.Implementation of this program is done using linked list data structures.
 It has 2 modules
   1. Admin
       * View total sales
